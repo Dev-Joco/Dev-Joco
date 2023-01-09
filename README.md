@@ -5,6 +5,7 @@
 - (2017.03 ~ 2017.08) (주)판게아솔루션 인턴십 안드로이드 앱 개발
 - (2022.07 ~ 2022.08) [삼성 DX 알고리즘 특강 + SWEA B형 합격](https://jsl663.tistory.com/45)
 - (2022.10 ~ 2022.11) [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
+- (2023.02 ~ ) KT AIVLE SCHOOL 3기
 
 ## Android Projects
 
