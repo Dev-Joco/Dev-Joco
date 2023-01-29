@@ -10,10 +10,10 @@
 ## Android Projects
 
 - (2016.03 ~ 2016.06) 재활 운동 앱 및 하드웨어 모듈 개발 - `Java` `C` `학과 프로젝트`
-- (2017.03 ~ 2017.08) [GoalGetter](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp) 서비스 앱 개발 - `Java` `인턴십`
-- (2019.03 ~ 2019.06) [WATCHA 클론 앱](https://github.com/Dev-Joco/watcha-clone) 구현 - `Kotlin` `개인 프로젝트`
-- (2019.07 ~ 2019.11) [카카오버스 클론 앱](https://github.com/Dev-Joco/kakaobus-clone) 구현 - `Kotlin` `개인 프로젝트`
-- (2021.11 ~ 2022.03) [뭐더라 서비스 앱](https://github.com/Dev-Joco/mwodeola-android) 및 [웹 서버](https://github.com/Dev-Joco/mwodeola-web-server) 개발 - `Kotlin` `Python` `개인 프로젝트`
+- (2017.03 ~ 2017.08) ["GoalGetter"](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp) 앱 서비스 개발 - `Java` `인턴십`
+- (2019.03 ~ 2019.06) ["WATCHA" 클론 앱](https://github.com/Dev-Joco/watcha-clone) 구현 - `Kotlin` `개인 프로젝트`
+- (2019.07 ~ 2019.11) ["카카오버스" 클론 앱](https://github.com/Dev-Joco/kakaobus-clone) 구현 - `Kotlin` `개인 프로젝트`
+- (2021.11 ~ 2022.03) ["뭐더라" 앱 서비스](https://github.com/Dev-Joco/mwodeola-android) 및 [웹 서버](https://github.com/Dev-Joco/mwodeola-web-server) 개발 - `Kotlin` `Python` `개인 프로젝트`
 
 ## Introduce
 
