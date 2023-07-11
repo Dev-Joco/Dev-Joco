@@ -7,7 +7,7 @@
 - (2022.10 ~ 2022.11) [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
 - ___(2023.02 ~ ) KT AIVLE SCHOOL - AI Track 3기 (진행중)___
 - (2023.03 ~ 2023.03) 서울시내버스 아이디어 공모전 (데이터 분석)
-- ___(2023.05 ~ ) K-Digital Training Hackatone (진행중)___
+- (2023.05 ~ 2023.06) K-Digital Training Hackatone
 
 ## Android Projects
 
