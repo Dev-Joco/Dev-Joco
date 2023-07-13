@@ -12,11 +12,11 @@
 ## Android Projects
 
 - (2016.03 ~ 2016.06) 재활 운동 앱 및 하드웨어 모듈 개발 - `Java` `C` `학과 프로젝트`
-- (2017.03 ~ 2017.08) ["GoalGetter"](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp) 앱 서비스 개발 - `Java` `인턴십`
-- (2019.03 ~ 2019.06) ["WATCHA" 클론 앱](https://github.com/Dev-Joco/watcha-clone) 구현 - `Kotlin` `토이 프로젝트`
-- (2019.07 ~ 2019.11) ["카카오버스" 클론 앱](https://github.com/Dev-Joco/kakaobus-clone) 구현 - `Kotlin` `토이 프로젝트`
-- (2021.11 ~ 2022.03) ["뭐더라" 앱 서비스](https://github.com/Dev-Joco/mwodeola-android) 및 [웹 서버](https://github.com/Dev-Joco/mwodeola-web-server) 개발 - `Kotlin` `Python` `개인 프로젝트`
-- (2023.06 ~ 2023.07) [AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android) 안드로이드 앱 개발
+- (2017.03 ~ 2017.08) **[[GoalGetter] 다이어리 공유 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)** - 안드로이드 개발 - `Java` `인턴십`
+- (2019.03 ~ 2019.06) **[[WATCHA] 클론 앱](https://github.com/Dev-Joco/watcha-clone)** 구현 - `Kotlin` `토이 프로젝트`
+- (2019.07 ~ 2019.11) **[[카카오버스] 클론 앱](https://github.com/Dev-Joco/kakaobus-clone)** 구현 - `Kotlin` `토이 프로젝트`
+- (2021.11 ~ 2022.03) **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱 서비스](https://github.com/Dev-Joco/mwodeola-android)** 및 **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)** 개발 - `Kotlin` `Python` `개인 프로젝트`
+- (2023.06 ~ 2023.07) **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)** - 안드로이드 개발 - `kotlin` `Clean Architecture`
 
 ## Introduce
 
