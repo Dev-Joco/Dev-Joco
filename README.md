@@ -27,7 +27,7 @@
   `개인 프로젝트` `Kotlin` `MVP` `AWS` `Django` `Python`  
   **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱](https://github.com/Dev-Joco/mwodeola-android)** 및 **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
 - _2023.06 ~ 2023.07_  
-  `팀 프로젝트` `KT AIVLE` `Big Project` `우수상` `Kotlin` `Clean Architecture`  
+  `팀 프로젝트` `KT AIVLE` `Big Project` `우수상` `Kotlin` `MVVM` `Clean Architecture`  
   **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)**
                       
 
