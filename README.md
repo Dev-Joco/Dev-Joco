@@ -5,18 +5,31 @@
 - (2017.03 ~ 2017.08) (주)판게아솔루션 인턴십 - ["GoalGetter"](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp) 앱 개발
 - (2022.07 ~ 2022.08) [삼성 DX 알고리즘 특강 & SWEA B형](https://jsl663.tistory.com/45)
 - (2022.10 ~ 2022.11) [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
-- ___(2023.02 ~ ) KT AIVLE SCHOOL - AI Track 3기 (진행중)___
+- (2023.02 ~ 2023.07) [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr) - 빅프로젝트 우수상
 - (2023.03 ~ 2023.03) 서울시내버스 아이디어 공모전 (데이터 분석)
-- (2023.05 ~ 2023.06) K-Digital Training Hackatone
+- (2023.05 ~ 2023.06) K-Digital Training Hackatone (AI 서비스 개발)
 
 ## Android Projects
 
-- (2016.03 ~ 2016.06) 재활 운동 앱 및 하드웨어 모듈 개발 - `Java` `C` `학과 프로젝트`
-- (2017.03 ~ 2017.08) **[[GoalGetter] 다이어리 공유 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)** - 안드로이드 개발 - `Java` `인턴십`
-- (2019.03 ~ 2019.06) **[[WATCHA] 클론 앱](https://github.com/Dev-Joco/watcha-clone)** 구현 - `Kotlin` `토이 프로젝트`
-- (2019.07 ~ 2019.11) **[[카카오버스] 클론 앱](https://github.com/Dev-Joco/kakaobus-clone)** 구현 - `Kotlin` `토이 프로젝트`
-- (2021.11 ~ 2022.03) **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱 서비스](https://github.com/Dev-Joco/mwodeola-android)** 및 **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)** 개발 - `Kotlin` `Python` `개인 프로젝트`
-- (2023.06 ~ 2023.07) **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)** - 안드로이드 개발 - `kotlin` `Clean Architecture`
+- _2016.03 ~ 2016.06_  
+  `학부 과제 팀 프로젝트` `Java` `C` `Embedded`  
+  재활 운동 앱 및 하드웨어 모듈 개발
+- _2017.03 ~ 2017.08_  
+  `인턴십` `SNS 모바일 앱`, `Java`  
+  **[[GoalGetter] 다이어리 공유 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)**
+- _2019.03 ~ 2019.06_  
+  `토이 프로젝트` `kotlin` `MVP`  
+  **[[WATCHA] 클론 앱](https://github.com/Dev-Joco/watcha-clone)**
+- _2019.07 ~ 2019.11_  
+  `토이 프로젝트` `kotlin`, `MVP`  
+  **[[카카오버스] 클론 앱](https://github.com/Dev-Joco/kakaobus-clone)**
+- _2021.11 ~ 2022.03_  
+  `개인 프로젝트` `Kotlin` `MVP` `AWS` `Django` `Python`  
+  **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱](https://github.com/Dev-Joco/mwodeola-android)** 및 **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
+- _2023.06 ~ 2023.07_  
+  `팀 프로젝트` `KT AIVLE` `Big Project` `우수상` `Kotlin` `Clean Architecture`  
+  **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)**
+                      
 
 ## Introduce
 
