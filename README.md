@@ -12,10 +12,10 @@
 ## Android Projects
 
 - _2016.03 ~ 2016.06_  
-  `학부 과제 팀 프로젝트` `Java` `C` `Embeded`  
+  `팀 프로젝트` `Java` `C` `Embeded`  
   재활 운동 앱 및 하드웨어 모듈 개발
 - _2017.03 ~ 2017.08_  
-  `인턴십` `SNS 모바일 앱`, `Java`  
+  `인턴십` `SNS 모바일 앱` `Java`  
   **[[GoalGetter] 소셜 목표 일기 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)**
 - _2019.03 ~ 2019.06_  
   `토이 프로젝트` `kotlin` `MVP`  
