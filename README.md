@@ -6,9 +6,9 @@
 - (2022.07 ~ 2022.08) [삼성 DX 알고리즘 특강 & SWEA B형](https://jsl663.tistory.com/45)
 - (2022.10 ~ 2022.11) [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
 - (2023.02 ~ 2023.07) [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr)  
-  ├ (2023.03 ~ 2023.03) 서울시내버스 아이디어 공모전 (데이터 분석)  
-  ├ (2023.05 ~ 2023.06) K-Digital Training Hackatone (디지털 혁신 서비스 개발)  
-  └ (2023.06 ~ 2023.07) [KT AIVLE Big Project (AI 서비스 개발) (우수상🏆)](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
+  - (2023.03 ~ 2023.03) 서울시내버스 아이디어 공모전 (데이터 분석)  
+  - (2023.05 ~ 2023.06) K-Digital Training Hackatone (디지털 혁신 서비스 개발)  
+  - (2023.06 ~ 2023.07) [KT AIVLE Big Project (AI 서비스 개발) (우수상🏆)](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
 
 ## Android Projects
 
