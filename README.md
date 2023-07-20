@@ -18,14 +18,14 @@
   `인턴십` `SNS 모바일 앱` `Java`  
   **[[GoalGetter] 소셜 목표 일기 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)**
 - _2019.03 ~ 2019.06_  
-  `토이 프로젝트` `kotlin` `MVP`  
+  `토이 프로젝트` `Kotlin` `MVP`  
   **[[WATCHA] 클론 앱](https://github.com/Dev-Joco/watcha-clone)**
 - _2019.07 ~ 2019.11_  
-  `토이 프로젝트` `kotlin` `MVP`  
+  `토이 프로젝트` `Kotlin` `MVP`  
   **[[카카오버스] 클론 앱](https://github.com/Dev-Joco/kakaobus-clone)**
 - _2021.11 ~ 2022.03_  
   `개인 프로젝트` `Kotlin` `MVP` `AWS` `Django` `Python`  
-  **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱](https://github.com/Dev-Joco/mwodeola-android)** 및 **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
+  **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱](https://github.com/Dev-Joco/mwodeola-android)** & **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
 - _2023.06 ~ 2023.07_  
   `팀 프로젝트` `KT AIVLE` `Big Project` `우수상` `Kotlin` `MVVM` `Clean Architecture`  
   **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)**
