@@ -5,9 +5,10 @@
 - (2017.03 ~ 2017.08) (주)판게아솔루션 인턴십 - ["GoalGetter"](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp) 앱 개발
 - (2022.07 ~ 2022.08) [삼성 DX 알고리즘 특강 & SWEA B형](https://jsl663.tistory.com/45)
 - (2022.10 ~ 2022.11) [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
-- (2023.02 ~ 2023.07) [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr) - 빅프로젝트 우수상
-- (2023.03 ~ 2023.03) 서울시내버스 아이디어 공모전 (데이터 분석)
-- (2023.05 ~ 2023.06) K-Digital Training Hackatone (AI 서비스 개발)
+- (2023.02 ~ 2023.07) [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr)  
+  ├ (2023.03 ~ 2023.03) 서울시내버스 아이디어 공모전 (데이터 분석)  
+  ├ (2023.05 ~ 2023.06) K-Digital Training Hackatone (디지털 혁신 서비스 개발)  
+  └ (2023.06 ~ 2023.07) KT AIVLE Big Project (AI 서비스 개발) (우수상🏆)
 
 ## Android Projects
 
@@ -27,7 +28,7 @@
   `개인 프로젝트` `Kotlin` `MVP` `AWS` `Django` `Python`  
   **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱](https://github.com/Dev-Joco/mwodeola-android)** & **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
 - _2023.06 ~ 2023.07_  
-  `팀 프로젝트` `KT AIVLE` `빅프로젝트` `우수상` `Kotlin` `MVVM` `Clean Architecture`  
+  `팀 프로젝트` `KT AIVLE` `빅프로젝트` `우수상🏆` `Kotlin` `MVVM` `Clean Architecture`  
   **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)**
                       
 
