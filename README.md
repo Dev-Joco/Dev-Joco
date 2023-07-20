@@ -16,12 +16,12 @@
   재활 운동 앱 및 하드웨어 모듈 개발
 - _2017.03 ~ 2017.08_  
   `인턴십` `SNS 모바일 앱`, `Java`  
-  **[[GoalGetter] 다이어리 공유 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)**
+  **[[GoalGetter] 소셜 목표 일기 SNS 모바일 앱](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp)**
 - _2019.03 ~ 2019.06_  
   `토이 프로젝트` `kotlin` `MVP`  
   **[[WATCHA] 클론 앱](https://github.com/Dev-Joco/watcha-clone)**
 - _2019.07 ~ 2019.11_  
-  `토이 프로젝트` `kotlin`, `MVP`  
+  `토이 프로젝트` `kotlin` `MVP`  
   **[[카카오버스] 클론 앱](https://github.com/Dev-Joco/kakaobus-clone)**
 - _2021.11 ~ 2022.03_  
   `개인 프로젝트` `Kotlin` `MVP` `AWS` `Django` `Python`  
