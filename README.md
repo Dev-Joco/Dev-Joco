@@ -7,7 +7,7 @@
 - _(2022.10 ~ 2022.11)_&nbsp; [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
 - _(2023.02 ~ 2023.07)_&nbsp; [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr)  
   ├ _(02/27 ~ 03/31)_&nbsp; 서울시내버스 아이디어 공모전 (데이터 분석)  
-  ├ _(04/24 ~ 06/13)_&nbsp; [K-Digital Training Hackatone](https://github.com/hackathon-AIVLE) (디지털 혁신 서비스 개발) (예선 통과)  
+  ├ _(04/24 ~ 06/13)_&nbsp; [K-Digital Training Hackatone](https://github.com/hackathon-AIVLE) (디지털 혁신 서비스 개발) (예선 통과✅)  
   └ _(05/30 ~ 07/11)_&nbsp; [KT AIVLE Big Project](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main) (AI 서비스 개발) (우수상🏆)  
 
 ## Android Projects
@@ -21,7 +21,7 @@
 - _(2019.07 ~ 2019.11)_&nbsp; `토이 프로젝트` `Kotlin` `MVP`  
   **[[카카오버스] 클론 앱](https://github.com/Dev-Joco/kakaobus-clone)**
 - _(2021.11 ~ 2022.03)_&nbsp; `개인 프로젝트` `Kotlin` `MVP` `AWS` `Django` `Python`  
-  **[[뭐더라] 아이디/비밀번호 간편 저장/관리 앱](https://github.com/Dev-Joco/mwodeola-android)** & **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
+  **[[뭐더라] 아이디/비밀번호 통합 관리 앱](https://github.com/Dev-Joco/mwodeola-android)** & **[웹 서버](https://github.com/Dev-Joco/mwodeola-web-server)**
 - _(2023.06 ~ 2023.07)_&nbsp; `팀 프로젝트` `KT AIVLE` `빅프로젝트` `우수상🏆` `Kotlin` `MVVM` `Clean Architecture`  
   **[[퍼니버니] AI 기반 대형생활폐기물 간편 배출 앱 서비스](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android)**
 
