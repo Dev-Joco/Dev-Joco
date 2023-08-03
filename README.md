@@ -14,7 +14,7 @@
 - _(2023.02 ~ 2023.07)_&nbsp; [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr)  
   ├ _(02/27 ~ 03/31)_&nbsp; 서울시내버스 아이디어 공모전 (데이터 분석)  
   ├ _(04/24 ~ 06/13)_&nbsp; [2023 K-Digital Training Hackathon](https://github.com/hackathon-AIVLE) (디지털 혁신 서비스 개발) (예선 통과✅)  
-  └ _(05/30 ~ 07/11)_&nbsp; [KT AIVLE Big Project](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main) (AI 서비스 개발) (우수상🏆)  
+  └ _(05/30 ~ 07/11)_&nbsp; [KT AIVLE Big Project](https://github.com/KT-AIVLE-3rd-AI-Team10) (AI 서비스 개발) (우수상🏆)  
 
 ## Android Projects
 
