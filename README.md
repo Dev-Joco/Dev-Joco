@@ -36,4 +36,4 @@
 - (2021.11 ~ 2022.03)&nbsp; `개인 프로젝트` `Backend` `AWS` `Django` `Python` `DRF` `JWT` `Security`  
   [[뭐더라] 아이디/비밀번호 통합 관리 앱 - 웹 서버 개발](https://github.com/Dev-Joco/mwodeola-web-server)
 - (2023.07 ~ 2023.08)&nbsp; `팀 프로젝트` `K-Digital Training Hackathon` `Frontend` `Chrome Extensions`  
-  [[동영상 Ctrl + F] AI 기반의 유튜브 동영상 속 텍스트 검색이 가능한 크롬 확장 프로그램](https://github.com/hackathon-AIVLE/video-ctrl-f-chrome-extensions)
+  [[동영상 Ctrl + F] AI 기반 유튜브 동영상 속 텍스트 검색 서비스 (크롬 확장 프로그램)](https://github.com/hackathon-AIVLE/video-ctrl-f-chrome-extensions)
