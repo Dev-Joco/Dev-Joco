@@ -13,7 +13,7 @@
 - (2022.10 ~ 2022.11)&nbsp; [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
 - (2023.02 ~ 2023.07)&nbsp; [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr)  
   ├ (02/27 ~ 03/31)&nbsp; [서울시내버스 아이디어 공모전](https://github.com/dev-loggi/2023-seoul-bus-contest) (데이터 분석)  
-  ├ (04/24 ~ 06/13)&nbsp; [2023 K-Digital Training Hackathon](https://github.com/Video-CtrlF) (디지털 혁신 서비스 개발) (본선 진출✅)  
+  ├ (04/24 ~ 06/13)&nbsp; [2023 K-Digital Training Hackathon](https://github.com/Video-CtrlF) (디지털 혁신 서비스 개발) (예선 통과✅)  
   └ (05/30 ~ 07/11)&nbsp; [KT AIVLE Big Project](https://github.com/KT-AIVLE-3rd-AI-Team10) (AI 서비스 개발) (우수상🏆)
 
 ## Android Projects
