@@ -9,7 +9,7 @@
 - (2013.03 ~ 2017.08)&nbsp; Computer Engineering
 - (2014.03 ~ 2014.12)&nbsp; 교내 학업 동아리 "ILAB" 운영
 - (2017.03 ~ 2017.08)&nbsp; (주)판게아솔루션 인턴십 - ["GoalGetter"](https://play.google.com/store/apps/details?id=com.goalgetter.goalgetterapp) 앱 개발
-- (2022.07 ~ 2022.08)&nbsp; [삼성 DX 알고리즘 특강 & SWEA B형](https://jsl663.tistory.com/45)
+- (2022.07 ~ 2022.08)&nbsp; [삼성전자 DX 알고리즘 특강](https://jsl663.tistory.com/45) (SWEA B형 취득)
 - (2022.10 ~ 2022.11)&nbsp; [우아한테크코스 프리코스 4주](https://jsl663.tistory.com/50)
 - (2023.02 ~ 2023.07)&nbsp; [KT AIVLE School AI Track 3기](https://aivle.kt.co.kr)  
   ├ (02/27 ~ 03/31)&nbsp; [서울시내버스 아이디어 공모전](https://github.com/dev-loggi/2023-seoul-bus-contest) (데이터 분석)  
