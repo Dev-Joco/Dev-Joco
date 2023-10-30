@@ -41,4 +41,6 @@
 ## Study
 
 - (2023.08.21 ~ ing)&nbsp; [개발자 CS 스터디](https://github.com/aivle33-dev-study/cs-study)  
-  └ (08/21 - ing)&nbsp; 컴퓨터 구조 & 운영체제 스터디
+  ├ (2023.08.21 ~ 2023.10.12)&nbsp; 컴퓨터 구조 & 운영체제  
+  └ (2023.10.20 ~ ing)&nbsp; 네트워크
+  
